@@ -1,17 +1,11 @@
-# app_nation_cases
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # reddit_clone_case
+
+
+![Simulator Screen Shot - iPhone 13 mini - 2022-09-15 at 11 33 09 Büyük](https://user-images.githubusercontent.com/81583706/190360094-cd708e6a-df5d-42b2-9853-c80943ca57c9.png)
+
+--
+
+![Simulator Screen Shot - iPhone 13 mini - 2022-09-15 at 11 33 33 Büyük](https://user-images.githubusercontent.com/81583706/190359950-0d3cb95f-c3e9-4eff-aac8-87095fb1e6a8.png)
+
+
+
